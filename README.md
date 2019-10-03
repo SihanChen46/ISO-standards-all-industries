@@ -1,5 +1,5 @@
 # ISO-standards-all-industries
 
-All ISO standards scraped from official website (https://www.iso.org/standards.html) of ISO used Scrapy.
+All ISO standards scraped from official website (https://www.iso.org/standards.html) of ISO used Scrapy in Aug.2018.
 
 Both text files and xlsx file are provided.
